@@ -1,6 +1,7 @@
 # quiz-reframe
 
-A [re-frame](https://github.com/Day8/re-frame) application designed to ... well, that part is up to you.
+A [re-frame](https://github.com/Day8/re-frame) application  
+This is a solution for the Test Task given at https://github.com/netronixgroup/js-sdk/blob/master/TestTask.md 
 
 ## Development Mode
 
