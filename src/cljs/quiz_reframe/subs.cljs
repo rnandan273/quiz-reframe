@@ -14,5 +14,4 @@
 (re-frame/reg-sub
   :data-response
   (fn [db]
-    (log (str "SUBS" (:data-response db)))
     (:data-response db)))
